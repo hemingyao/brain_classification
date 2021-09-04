@@ -1,0 +1,14 @@
+argparse
+jsonpatch
+torch==1.8.1
+SimpleITK==2.1.0
+imgaug==0.4.0
+matplotlib==3.4.2
+nibabel==2.4.1
+pandas==1.2.4
+scikit-image==0.18.2
+scipy==1.6.3
+seaborn==0.11.1
+tqdm==4.61.1
+ttach==0.0.3
+
